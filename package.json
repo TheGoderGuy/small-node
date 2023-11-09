@@ -1,0 +1,8 @@
+{
+    "name": "small-node-image",
+    "version": "1.0.0",
+    "author": "CareBear",
+    "main": "index.js",
+    "license": "MIT",
+    "description": "Test"
+}
